@@ -1,0 +1,5 @@
+name: Startelytra
+version: '${project.version}'
+main: de.zorryno.startelytra.StartElytra
+commands:
+  elytra:

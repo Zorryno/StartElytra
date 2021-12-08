@@ -1,0 +1,8 @@
+boost: true #true | false
+elytra:
+  title: "Start Elytra"
+  lore:
+    - "Start Elytra"
+    - "&4Kann nicht entnommen werden"
+pos1:
+pos2:
